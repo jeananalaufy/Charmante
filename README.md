@@ -4,5 +4,5 @@ Charmante is a mobile application that provides customers with the ability to ea
 
 ![Flowchart](https://github.com/jeanansabry/Charmante/assets/90131227/21cb7aff-6a38-4f99-9f00-bbaa0ad9e052
 
-file:///C:/Users/USER/Downloads/prototypes_jeanan.pdf
+
 
